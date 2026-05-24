@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🤖%20Agno%20Multi-Agent%20System&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Finance%20|%20Memory%20|%20File%20Gen%20|%20Multi-Language%20Team%20—%20Powered%20by%20Groq%20+%20Qwen3&descAlignY=60&descAlign=50" width="100%"/>
 
+<div align="center">
+  
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Agno](https://img.shields.io/badge/Agno-Framework-6C63FF?style=for-the-badge&logo=abstract&logoColor=white)](https://github.com/agno-agi/agno)
 [![Groq](https://img.shields.io/badge/Groq-Qwen3--32b-F55036?style=for-the-badge&logo=lightning&logoColor=white)](https://groq.com)
@@ -7,6 +9,8 @@
 [![YFinance](https://img.shields.io/badge/YFinance-Stock%20Data-00C805?style=for-the-badge&logo=yahoo&logoColor=white)](https://pypi.org/project/yfinance/)
 [![ReportLab](https://img.shields.io/badge/ReportLab-PDF%20Gen-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.reportlab.com)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
+
+</div>
 
 ---
 
