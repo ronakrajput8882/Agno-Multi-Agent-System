@@ -1,0 +1,7 @@
+agno
+groq
+ddgs
+streamlit
+reportlab
+yfinance
+sqlalchemy
